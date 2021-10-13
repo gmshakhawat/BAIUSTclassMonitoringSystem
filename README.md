@@ -1,5 +1,5 @@
 # BAIUSTclassMonitoringSystem
-Screenshot ( Codes are protected for publishing app )
+Screenshot
 
 ![](User%20Manua%20lFor%20Student%20(Screenshort)/baiust_APP_PORTFOLIO-01.jpg)
 ![](User%20Manua%20lFor%20Student%20(Screenshort)/baiust_APP_PORTFOLIO-02.jpg)
